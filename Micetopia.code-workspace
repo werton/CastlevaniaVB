@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"sprites.h": "c",
+			"global.h": "c",
+			"types.h": "c",
+			"tilemaps.h": "c",
+			"obj_debug.h": "c",
+			"debug.h": "c",
+			"fsm.h": "c",
+			"attack_state.h": "c",
+			"state.h": "c",
+			"camera.h": "c"
+		}
+	}
+}

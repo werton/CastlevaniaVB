@@ -1,0 +1,439 @@
+{
+	"identifier": "level_0",
+	"uniqueIdentifer": "5237fe20-7820-11ed-a6f6-1513cfe3ee96",
+	"x": 384,
+	"y": -176,
+	"width": 1072,
+	"height": 432,
+	"bgColor": "#696A79",
+	"neighbourLevels": [
+		{
+			"levelIid": "665ff970-dbe0-11ec-807e-cf524ee0c597",
+			"dir": "w"
+		}
+	],
+	"customFields" : {},
+	"layers": [
+		"layer_b.png",
+		"layer_a.png",
+		"overdraw.png"
+	],
+	"entities": {
+		"decor_lantern_mid": [
+			{
+				"id": "decor_lantern_mid",
+				"iid": "71602970-7820-11ed-a6f6-054693ae82e5",
+				"layer": "entities",
+				"x": 280,
+				"y": 240,
+				"width": 48,
+				"height": 40,
+				"color": 65395,
+				"customFields": {
+					"exportName": true,
+					"exportPosition": true,
+					"exportSize": true,
+					"id": 0,
+					"type": 10,
+					"group": 0,
+					"enabled": 1,
+					"priority": 0
+				}
+			},
+			{
+				"id": "decor_lantern_mid",
+				"iid": "747cd2c0-7820-11ed-a6f6-d5f81a976310",
+				"layer": "entities",
+				"x": 488,
+				"y": 240,
+				"width": 48,
+				"height": 40,
+				"color": 65395,
+				"customFields": {
+					"exportName": true,
+					"exportPosition": true,
+					"exportSize": true,
+					"id": 0,
+					"type": 10,
+					"group": 0,
+					"enabled": 1,
+					"priority": 0
+				}
+			},
+			{
+				"id": "decor_lantern_mid",
+				"iid": "75b86000-7820-11ed-a6f6-0528dbb147d8",
+				"layer": "entities",
+				"x": 664,
+				"y": 240,
+				"width": 48,
+				"height": 40,
+				"color": 65395,
+				"customFields": {
+					"exportName": true,
+					"exportPosition": true,
+					"exportSize": true,
+					"id": 0,
+					"type": 10,
+					"group": 0,
+					"enabled": 1,
+					"priority": 0
+				}
+			},
+			{
+				"id": "decor_lantern_mid",
+				"iid": "772e8540-7820-11ed-a6f6-e3d38022c6c7",
+				"layer": "entities",
+				"x": 840,
+				"y": 240,
+				"width": 48,
+				"height": 40,
+				"color": 65395,
+				"customFields": {
+					"exportName": true,
+					"exportPosition": true,
+					"exportSize": true,
+					"id": 0,
+					"type": 10,
+					"group": 0,
+					"enabled": 1,
+					"priority": 0
+				}
+			},
+			{
+				"id": "decor_lantern_mid",
+				"iid": "79c1b340-7820-11ed-a6f6-357c9ab2182c",
+				"layer": "entities",
+				"x": 664,
+				"y": 64,
+				"width": 48,
+				"height": 40,
+				"color": 65395,
+				"customFields": {
+					"exportName": true,
+					"exportPosition": true,
+					"exportSize": true,
+					"id": 0,
+					"type": 10,
+					"group": 0,
+					"enabled": 1,
+					"priority": 0
+				}
+			},
+			{
+				"id": "decor_lantern_mid",
+				"iid": "7a8d40a0-7820-11ed-a6f6-410187ff8f1d",
+				"layer": "entities",
+				"x": 424,
+				"y": 64,
+				"width": 48,
+				"height": 40,
+				"color": 65395,
+				"customFields": {
+					"exportName": true,
+					"exportPosition": true,
+					"exportSize": true,
+					"id": 0,
+					"type": 10,
+					"group": 0,
+					"enabled": 1,
+					"priority": 0
+				}
+			},
+			{
+				"id": "decor_lantern_mid",
+				"iid": "7c1a4940-7820-11ed-a6f6-1174094c1ec4",
+				"layer": "entities",
+				"x": 168,
+				"y": 64,
+				"width": 48,
+				"height": 40,
+				"color": 65395,
+				"customFields": {
+					"exportName": true,
+					"exportPosition": true,
+					"exportSize": true,
+					"id": 0,
+					"type": 10,
+					"group": 0,
+					"enabled": 1,
+					"priority": 0
+				}
+			}
+		],
+		"decor_mushroom_big": [
+			{
+				"id": "decor_mushroom_big",
+				"iid": "28ed4c30-7820-11ed-a6f6-31773ac6eebf",
+				"layer": "entities",
+				"x": 112,
+				"y": 384,
+				"width": 32,
+				"height": 24,
+				"color": 65395,
+				"customFields": {
+					"exportPosition": true,
+					"id": 0,
+					"type": 2,
+					"group": 0,
+					"enabled": 1,
+					"priority": 0,
+					"exportSize": true,
+					"exportName": true
+				}
+			},
+			{
+				"id": "decor_mushroom_big",
+				"iid": "31723c80-7820-11ed-a6f6-2b76ab2eedf8",
+				"layer": "entities",
+				"x": 352,
+				"y": 192,
+				"width": 32,
+				"height": 24,
+				"color": 65395,
+				"customFields": {
+					"exportPosition": true,
+					"id": 0,
+					"type": 2,
+					"group": 0,
+					"enabled": 1,
+					"priority": 0,
+					"exportSize": true,
+					"exportName": true
+				}
+			}
+		],
+		"decor_mushroom_mid": [
+			{
+				"id": "decor_mushroom_mid",
+				"iid": "34ef5550-7820-11ed-a6f6-a502d4910eb6",
+				"layer": "entities",
+				"x": 368,
+				"y": 384,
+				"width": 24,
+				"height": 24,
+				"color": 65395,
+				"customFields": {
+					"exportPosition": true,
+					"id": 0,
+					"type": 1,
+					"group": 0,
+					"enabled": 1,
+					"priority": 0,
+					"exportSize": true,
+					"exportName": true
+				}
+			},
+			{
+				"id": "decor_mushroom_mid",
+				"iid": "5725b9c0-7820-11ed-a6f6-cdbf5e308343",
+				"layer": "entities",
+				"x": 400,
+				"y": 192,
+				"width": 24,
+				"height": 24,
+				"color": 65395,
+				"customFields": {
+					"exportPosition": true,
+					"id": 0,
+					"type": 1,
+					"group": 0,
+					"enabled": 1,
+					"priority": 0,
+					"exportSize": true,
+					"exportName": true
+				}
+			}
+		],
+		"decor_mushroom_small": [
+			{
+				"id": "decor_mushroom_small",
+				"iid": "3eed2a00-7820-11ed-a6f6-956c6fcf0551",
+				"layer": "entities",
+				"x": 704,
+				"y": 192,
+				"width": 16,
+				"height": 8,
+				"color": 65395,
+				"customFields": {
+					"exportPosition": true,
+					"id": 0,
+					"type": 0,
+					"group": 0,
+					"enabled": 1,
+					"priority": 0,
+					"exportName": true,
+					"exportSize": true
+				}
+			},
+			{
+				"id": "decor_mushroom_small",
+				"iid": "463e7c50-7820-11ed-a6f6-57539307327f",
+				"layer": "entities",
+				"x": 160,
+				"y": 384,
+				"width": 16,
+				"height": 8,
+				"color": 65395,
+				"customFields": {
+					"exportPosition": true,
+					"id": 0,
+					"type": 0,
+					"group": 0,
+					"enabled": 1,
+					"priority": 0,
+					"exportName": true,
+					"exportSize": true
+				}
+			},
+			{
+				"id": "decor_mushroom_small",
+				"iid": "4ae56f20-7820-11ed-a6f6-bf7efd473c92",
+				"layer": "entities",
+				"x": 352,
+				"y": 384,
+				"width": 16,
+				"height": 8,
+				"color": 65395,
+				"customFields": {
+					"exportPosition": true,
+					"id": 0,
+					"type": 0,
+					"group": 0,
+					"enabled": 1,
+					"priority": 0,
+					"exportName": true,
+					"exportSize": true
+				}
+			},
+			{
+				"id": "decor_mushroom_small",
+				"iid": "4bb12390-7820-11ed-a6f6-41cdae835832",
+				"layer": "entities",
+				"x": 336,
+				"y": 192,
+				"width": 16,
+				"height": 8,
+				"color": 65395,
+				"customFields": {
+					"exportPosition": true,
+					"id": 0,
+					"type": 0,
+					"group": 0,
+					"enabled": 1,
+					"priority": 0,
+					"exportName": true,
+					"exportSize": true
+				}
+			},
+			{
+				"id": "decor_mushroom_small",
+				"iid": "7bf7a940-7820-11ed-a6f6-33b3586513e3",
+				"layer": "entities",
+				"x": 960,
+				"y": 208,
+				"width": 16,
+				"height": 8,
+				"color": 65395,
+				"customFields": {
+					"exportPosition": true,
+					"id": 0,
+					"type": 0,
+					"group": 0,
+					"enabled": 1,
+					"priority": 0,
+					"exportName": true,
+					"exportSize": true
+				}
+			},
+			{
+				"id": "decor_mushroom_small",
+				"iid": "9159a790-7820-11ed-b15a-db574d829116",
+				"layer": "entities",
+				"x": 896,
+				"y": 336,
+				"width": 16,
+				"height": 8,
+				"color": 65395,
+				"customFields": {
+					"exportPosition": true,
+					"id": 0,
+					"type": 0,
+					"group": 0,
+					"enabled": 1,
+					"priority": 0,
+					"exportName": true,
+					"exportSize": true
+				}
+			},
+			{
+				"id": "decor_mushroom_small",
+				"iid": "96738070-7820-11ed-b15a-67d3a589377a",
+				"layer": "entities",
+				"x": 80,
+				"y": 192,
+				"width": 16,
+				"height": 8,
+				"color": 65395,
+				"customFields": {
+					"exportPosition": true,
+					"id": 0,
+					"type": 0,
+					"group": 0,
+					"enabled": 1,
+					"priority": 0,
+					"exportName": true,
+					"exportSize": true
+				}
+			}
+		],
+		"warp_left": [
+			{
+				"id": "warp_left",
+				"iid": "e4310e50-7820-11ed-a6f6-19fb22a4b35f",
+				"layer": "entities",
+				"x": 0,
+				"y": 256,
+				"width": 4,
+				"height": 64,
+				"color": 65395,
+				"customFields": {
+					"type": 1,
+					"width": 4,
+					"height": 64,
+					"enabled": 1,
+					"exportPosition": true,
+					"id": 0,
+					"group": 1,
+					"targetLevel": 1,
+					"targetWarp": 1,
+					"exportName": true
+				}
+			}
+		],
+		"warp_right": [
+			{
+				"id": "warp_right",
+				"iid": "6d3e9a10-7820-11ed-b15a-a76b7544be1d",
+				"layer": "entities",
+				"x": 112,
+				"y": 144,
+				"width": 4,
+				"height": 48,
+				"color": 65395,
+				"customFields": {
+					"id": 1,
+					"type": 1,
+					"group": 1,
+					"enabled": 1,
+					"width": 4,
+					"height": 64,
+					"exportPosition": true,
+					"targetLevel": 4,
+					"targetWarp": 0,
+					"exportName": true
+				}
+			}
+		]
+	}
+}

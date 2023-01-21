@@ -1,0 +1,3 @@
+C:/Dev/smd_dev/projects/CastlevaniaVB/cmake-build-debug/CMakeFiles/Micetopia.dir
+C:/Dev/smd_dev/projects/CastlevaniaVB/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Dev/smd_dev/projects/CastlevaniaVB/cmake-build-debug/CMakeFiles/rebuild_cache.dir

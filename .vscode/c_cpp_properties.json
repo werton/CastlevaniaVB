@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${default}",
+                "${env:DEVKIT}\\sgdk180dev\\inc\\**",
+                "${env:DEVKIT}\\sgdk180dev\\src\\**",
+                "${env:DEVKIT}\\sgdk180dev\\res\\**",
+                "${workspaceFolder}\\res",
+                "${workspaceFolder}/res"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "intelliSenseMode": "windows-msvc-x64"
+        }
+    ],
+    "version": 4
+}

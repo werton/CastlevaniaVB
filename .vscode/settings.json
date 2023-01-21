@@ -1,0 +1,13 @@
+{ 
+    "C_Cpp.default.includePath": ["${env:MARSDEV}\\sgdk\\SGDK\\inc",
+    "${env:MARSDEV}\\sgdk\\SGDK\\res",
+    "res",
+    "inc"
+],
+"files.associations": {
+    "tilemaps.h": "c",
+    "types.h": "c",
+    "debug.h": "c",
+    "sprites.h": "c"
+}
+}

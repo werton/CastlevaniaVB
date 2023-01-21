@@ -1,0 +1,447 @@
+{
+	"identifier": "level_3",
+	"uniqueIdentifer": "47d23360-7820-11ed-9d3e-bb2def0a090d",
+	"x": -1152,
+	"y": 224,
+	"width": 768,
+	"height": 224,
+	"bgColor": "#696A79",
+	"neighbourLevels": [
+		{
+			"levelIid": "6e572c90-7820-11ed-be85-7971aee4b6df",
+			"dir": "e"
+		},
+		{
+			"levelIid": "e2857d10-7820-11ed-8f6e-4b56cbed94fe",
+			"dir": "w"
+		}
+	],
+	"customFields" : {},
+	"layers": [
+		"layer_b.png",
+		"layer_a.png",
+		"overdraw.png"
+	],
+	"entities": {
+		"warp_right": [
+			{
+				"id": "warp_right",
+				"iid": "1254acd0-7820-11ed-9461-6fddd35e65ba",
+				"layer": "entities",
+				"x": 768,
+				"y": 80,
+				"width": 4,
+				"height": 64,
+				"color": 65395,
+				"customFields": {
+					"id": 1,
+					"type": 1,
+					"group": 1,
+					"enabled": 1,
+					"width": 4,
+					"height": 64,
+					"exportPosition": true,
+					"targetLevel": 2,
+					"targetWarp": 0,
+					"exportName": true
+				}
+			}
+		],
+		"warp_left": [
+			{
+				"id": "warp_left",
+				"iid": "a47652f0-7820-11ed-a826-e598d420afd0",
+				"layer": "entities",
+				"x": 0,
+				"y": 80,
+				"width": 4,
+				"height": 64,
+				"color": 65395,
+				"customFields": {
+					"type": 1,
+					"width": 4,
+					"height": 64,
+					"enabled": 1,
+					"exportPosition": true,
+					"id": 0,
+					"group": 1,
+					"targetLevel": 4,
+					"targetWarp": 1,
+					"exportName": true
+				}
+			}
+		],
+		"decor_mushroom_big": [
+			{
+				"id": "decor_mushroom_big",
+				"iid": "8e6b4e10-7820-11ed-9fb6-597d2716d63f",
+				"layer": "entities",
+				"x": 400,
+				"y": 144,
+				"width": 32,
+				"height": 24,
+				"color": 65395,
+				"customFields": {
+					"exportPosition": true,
+					"id": 0,
+					"type": 2,
+					"group": 0,
+					"enabled": 1,
+					"priority": 0,
+					"exportSize": true,
+					"exportName": true
+				}
+			}
+		],
+		"decor_mushroom_small": [
+			{
+				"id": "decor_mushroom_small",
+				"iid": "97320250-7820-11ed-9fb6-415e742c5bdb",
+				"layer": "entities",
+				"x": 64,
+				"y": 192,
+				"width": 16,
+				"height": 8,
+				"color": 65395,
+				"customFields": {
+					"exportPosition": true,
+					"id": 0,
+					"type": 0,
+					"group": 0,
+					"enabled": 1,
+					"priority": 0,
+					"exportName": true,
+					"exportSize": true
+				}
+			},
+			{
+				"id": "decor_mushroom_small",
+				"iid": "a6e7ebb0-7820-11ed-9fb6-27bbb744b85c",
+				"layer": "entities",
+				"x": 656,
+				"y": 192,
+				"width": 16,
+				"height": 8,
+				"color": 65395,
+				"customFields": {
+					"exportPosition": true,
+					"id": 0,
+					"type": 0,
+					"group": 0,
+					"enabled": 1,
+					"priority": 0,
+					"exportName": true,
+					"exportSize": true
+				}
+			},
+			{
+				"id": "decor_mushroom_small",
+				"iid": "65fa14a0-7820-11ed-be54-ede259250196",
+				"layer": "entities",
+				"x": 496,
+				"y": 176,
+				"width": 16,
+				"height": 8,
+				"color": 65395,
+				"customFields": {
+					"exportPosition": true,
+					"id": 0,
+					"type": 0,
+					"group": 0,
+					"enabled": 1,
+					"priority": 0,
+					"exportName": true,
+					"exportSize": true
+				}
+			},
+			{
+				"id": "decor_mushroom_small",
+				"iid": "69b12930-7820-11ed-be54-add957dfa5eb",
+				"layer": "entities",
+				"x": 256,
+				"y": 192,
+				"width": 16,
+				"height": 8,
+				"color": 65395,
+				"customFields": {
+					"exportPosition": true,
+					"id": 0,
+					"type": 0,
+					"group": 0,
+					"enabled": 1,
+					"priority": 0,
+					"exportName": true,
+					"exportSize": true
+				}
+			}
+		],
+		"decor_mushroom_mid": [
+			{
+				"id": "decor_mushroom_mid",
+				"iid": "9b685900-7820-11ed-9fb6-a10b8ad30649",
+				"layer": "entities",
+				"x": 144,
+				"y": 192,
+				"width": 24,
+				"height": 24,
+				"color": 65395,
+				"customFields": {
+					"exportPosition": true,
+					"id": 0,
+					"type": 1,
+					"group": 0,
+					"enabled": 1,
+					"priority": 0,
+					"exportSize": true,
+					"exportName": true
+				}
+			},
+			{
+				"id": "decor_mushroom_mid",
+				"iid": "a3c83520-7820-11ed-9fb6-c504eff3cc8e",
+				"layer": "entities",
+				"x": 608,
+				"y": 192,
+				"width": 24,
+				"height": 24,
+				"color": 65395,
+				"customFields": {
+					"exportPosition": true,
+					"id": 0,
+					"type": 1,
+					"group": 0,
+					"enabled": 1,
+					"priority": 0,
+					"exportSize": true,
+					"exportName": true
+				}
+			}
+		],
+		"decor_firewood": [
+			{
+				"id": "decor_firewood",
+				"iid": "b100c6b0-7820-11ed-be54-6753f0cb2eec",
+				"layer": "entities",
+				"x": 192,
+				"y": 192,
+				"width": 40,
+				"height": 56,
+				"color": 65395,
+				"customFields": {
+					"exportPosition": true,
+					"id": 0,
+					"type": 4,
+					"group": 0,
+					"enabled": 1,
+					"priority": 0,
+					"exportSize": true,
+					"exportName": true
+				}
+			}
+		],
+		"decor_web_small": [
+			{
+				"id": "decor_web_small",
+				"iid": "f5f846b0-7820-11ed-8d10-67b72847abd2",
+				"layer": "entities",
+				"x": 32,
+				"y": 64,
+				"width": 16,
+				"height": 16,
+				"color": 65395,
+				"customFields": {
+					"exportName": true,
+					"exportPosition": true,
+					"exportSize": true,
+					"id": 0,
+					"type": 5,
+					"group": 0,
+					"enabled": 1,
+					"priority": 0
+				}
+			},
+			{
+				"id": "decor_web_small",
+				"iid": "f67e3f90-7820-11ed-8d10-e17279742b17",
+				"layer": "entities",
+				"x": 48,
+				"y": 48,
+				"width": 16,
+				"height": 16,
+				"color": 65395,
+				"customFields": {
+					"exportName": true,
+					"exportPosition": true,
+					"exportSize": true,
+					"id": 0,
+					"type": 5,
+					"group": 0,
+					"enabled": 1,
+					"priority": 0
+				}
+			},
+			{
+				"id": "decor_web_small",
+				"iid": "f6fd81b0-7820-11ed-8d10-bbb1969681ad",
+				"layer": "entities",
+				"x": 64,
+				"y": 32,
+				"width": 16,
+				"height": 16,
+				"color": 65395,
+				"customFields": {
+					"exportName": true,
+					"exportPosition": true,
+					"exportSize": true,
+					"id": 0,
+					"type": 5,
+					"group": 0,
+					"enabled": 1,
+					"priority": 0
+				}
+			}
+		],
+		"decor_lantern_mid": [
+			{
+				"id": "decor_lantern_mid",
+				"iid": "99faaa50-7820-11ed-8d10-e944cd33c797",
+				"layer": "entities",
+				"x": 96,
+				"y": 32,
+				"width": 48,
+				"height": 40,
+				"color": 65395,
+				"customFields": {
+					"exportName": true,
+					"exportPosition": true,
+					"exportSize": true,
+					"id": 0,
+					"type": 10,
+					"group": 0,
+					"enabled": 1,
+					"priority": 0
+				}
+			},
+			{
+				"id": "decor_lantern_mid",
+				"iid": "9fe9d490-7820-11ed-8d10-75045ba6e4c8",
+				"layer": "entities",
+				"x": 288,
+				"y": 32,
+				"width": 48,
+				"height": 40,
+				"color": 65395,
+				"customFields": {
+					"exportName": true,
+					"exportPosition": true,
+					"exportSize": true,
+					"id": 0,
+					"type": 10,
+					"group": 0,
+					"enabled": 1,
+					"priority": 0
+				}
+			},
+			{
+				"id": "decor_lantern_mid",
+				"iid": "b768d850-7820-11ed-8d10-cbc6d6448d34",
+				"layer": "entities",
+				"x": 200,
+				"y": 112,
+				"width": 48,
+				"height": 40,
+				"color": 65395,
+				"customFields": {
+					"exportName": true,
+					"exportPosition": true,
+					"exportSize": true,
+					"id": 0,
+					"type": 10,
+					"group": 0,
+					"enabled": 1,
+					"priority": 0
+				}
+			},
+			{
+				"id": "decor_lantern_mid",
+				"iid": "b8882b00-7820-11ed-8d10-ab2b55aa0a68",
+				"layer": "entities",
+				"x": 344,
+				"y": 80,
+				"width": 48,
+				"height": 40,
+				"color": 65395,
+				"customFields": {
+					"exportName": true,
+					"exportPosition": true,
+					"exportSize": true,
+					"id": 0,
+					"type": 10,
+					"group": 0,
+					"enabled": 1,
+					"priority": 0
+				}
+			},
+			{
+				"id": "decor_lantern_mid",
+				"iid": "c2707be0-7820-11ed-8d10-5962c470d5b4",
+				"layer": "entities",
+				"x": 536,
+				"y": 64,
+				"width": 48,
+				"height": 40,
+				"color": 65395,
+				"customFields": {
+					"exportName": true,
+					"exportPosition": true,
+					"exportSize": true,
+					"id": 0,
+					"type": 10,
+					"group": 0,
+					"enabled": 1,
+					"priority": 0
+				}
+			},
+			{
+				"id": "decor_lantern_mid",
+				"iid": "c4772150-7820-11ed-8d10-65fa556095e7",
+				"layer": "entities",
+				"x": 648,
+				"y": 80,
+				"width": 48,
+				"height": 40,
+				"color": 65395,
+				"customFields": {
+					"exportName": true,
+					"exportPosition": true,
+					"exportSize": true,
+					"id": 0,
+					"type": 10,
+					"group": 0,
+					"enabled": 1,
+					"priority": 0
+				}
+			},
+			{
+				"id": "decor_lantern_mid",
+				"iid": "c5242a30-7820-11ed-8d10-e9de34864c57",
+				"layer": "entities",
+				"x": 744,
+				"y": 80,
+				"width": 48,
+				"height": 40,
+				"color": 65395,
+				"customFields": {
+					"exportName": true,
+					"exportPosition": true,
+					"exportSize": true,
+					"id": 0,
+					"type": 10,
+					"group": 0,
+					"enabled": 1,
+					"priority": 0
+				}
+			}
+		]
+	}
+}

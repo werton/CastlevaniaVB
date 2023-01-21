@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CLionExternalBuildManager">
+    <target id="3b61b895-f704-40d1-ad1f-bf265e5c19d5" name="SGDK Target" defaultType="TOOL">
+      <configuration id="1e8c80bc-26fe-4013-a9c5-0051e187a945" name="SGDK Target">
+        <build type="TOOL">
+          <tool actionId="Tool_External Tools_SGDK Build" />
+        </build>
+        <clean type="TOOL">
+          <tool actionId="Tool_External Tools_SGDK Clean" />
+        </clean>
+      </configuration>
+    </target>
+    <target id="f8bb90ff-075e-4ce5-8912-8706530e9767" name="SGDK Target2" defaultType="TOOL">
+      <configuration id="37c23e9e-8c0f-4ce6-9538-2d277d5de24c" name="SGDK Target2">
+        <build type="TOOL">
+          <tool actionId="Tool_External Tools_SGDK BuildAndRun" />
+        </build>
+        <clean type="TOOL">
+          <tool actionId="Tool_External Tools_SGDK Clean" />
+        </clean>
+      </configuration>
+    </target>
+  </component>
+</project>

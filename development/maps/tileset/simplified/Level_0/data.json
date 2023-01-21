@@ -1,0 +1,16 @@
+{
+	"identifier": "Level_0",
+	"uniqueIdentifer": "30e19282-7820-11ed-af66-19cde53e8e5a",
+	"x": 0,
+	"y": 0,
+	"width": 336,
+	"height": 272,
+	"bgColor": "#696A79",
+	"neighbourLevels": [],
+	"customFields" : {},
+	"layers": [
+		"Overdraw.png",
+		"Tiles.png"
+	],
+	"entities" : {}
+}

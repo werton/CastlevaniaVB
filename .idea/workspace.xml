@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_INJECTED_CODE" value="false" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="Micetopia" targetName="Micetopia" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="092b2d0a-f449-416f-8ad6-18e06c28ab80" name="Changes" comment="refactoring" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="5b923e7d-ffa8-4cfe-bcef-9b9645d902d2" />
+        <option name="url" value="https://github.com/werton/Micetopia-MD.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="3.1" />
+  </component>
+  <component name="ProjectId" id="2KAdS0TlhcrApwQbLw0W5Kh84Wc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;TODO_SCOPE&quot;: &quot;All Places&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Dev/smd_dev/projects/Micetopia/inc&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;CLionExternalConfigurable&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.18448023&quot;,
+    &quot;structure.view.defaults.are.configured&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Dev\smd_dev\projects\Micetopia\inc" />
+      <recent name="C:\Dev\smd_dev\projects\Micetopia\src" />
+      <recent name="C:\Dev\smd_dev\devkit\dev_tools\scripts" />
+      <recent name="C:\Dev\smd_dev\projects\Micetopia\src\pfsm\states" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Dev\smd_dev\projects\Micetopia\inc" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Makefile Application.SGDK">
+    <configuration name="SGDK" type="CLionNativeAppRunConfigurationType" PROGRAM_PARAMS="$ProjectFileDir$\out\rom.bin" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" WORKING_DIR="file://$ProjectFileDir$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Micetopia" TARGET_NAME="SGDK Target" CONFIG_NAME="SGDK Target" version="1" RUN_PATH="$SMD_DEV$/devkit/emuls/run_current_emul.bat">
+      <envs>
+        <env name="SMD_DEV" value="C:\Dev\smd_dev\" />
+        <env name="SMD_DEVKIT" value="C:\Dev\smd_dev\devkit\" />
+      </envs>
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Micetopia" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Micetopia" TARGET_NAME="Micetopia" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Micetopia" RUN_TARGET_NAME="Micetopia">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.Micetopia" />
+      <item itemvalue="Makefile Application.SGDK" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="092b2d0a-f449-416f-8ad6-18e06c28ab80" name="Changes" comment="" />
+      <created>1673421317040</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673421317040</updated>
+      <workItem from="1673421320110" duration="304000" />
+      <workItem from="1673423826042" duration="22000" />
+      <workItem from="1673424151501" duration="1076000" />
+      <workItem from="1673426880878" duration="2635000" />
+      <workItem from="1673481739214" duration="1247000" />
+      <workItem from="1673505182177" duration="570000" />
+      <workItem from="1673505767493" duration="3148000" />
+      <workItem from="1673577644352" duration="15710000" />
+      <workItem from="1673593584680" duration="121000" />
+      <workItem from="1673593714611" duration="11131000" />
+      <workItem from="1673697269740" duration="13798000" />
+      <workItem from="1673768133078" duration="63000" />
+      <workItem from="1673768204166" duration="384000" />
+      <workItem from="1673768601165" duration="6076000" />
+      <workItem from="1673828556519" duration="3781000" />
+      <workItem from="1673854641999" duration="19537000" />
+      <workItem from="1673926677989" duration="2940000" />
+      <workItem from="1673929665405" duration="4599000" />
+      <workItem from="1673935697814" duration="5543000" />
+      <workItem from="1673941438790" duration="9706000" />
+      <workItem from="1674054680727" duration="322000" />
+      <workItem from="1674060324456" duration="292000" />
+      <workItem from="1674060627315" duration="535000" />
+      <workItem from="1674061172986" duration="16000" />
+      <workItem from="1674061196966" duration="510000" />
+      <workItem from="1674061719317" duration="2214000" />
+      <workItem from="1674109276914" duration="144000" />
+      <workItem from="1674109430840" duration="7478000" />
+      <workItem from="1674274741508" duration="595000" />
+      <workItem from="1674278462601" duration="3417000" />
+      <workItem from="1674282062074" duration="73000" />
+      <workItem from="1674282185341" duration="5665000" />
+      <workItem from="1674300594264" duration="1587000" />
+    </task>
+    <task id="LOCAL-00001" summary="refactoring">
+      <created>1673591886241</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673591886241</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="refactoring" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactoring" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

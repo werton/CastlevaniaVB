@@ -1,0 +1,23 @@
+<toolSet name="External Tools">
+  <tool name="SGDK Build" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="C:\Dev\smd_dev\devkit\sgdk180dev\bin\make.exe" />
+      <option name="PARAMETERS" value="-f C:\Dev\smd_dev\devkit\sgdk180dev\makefile.gen" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="SGDK Clean" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="C:\Dev\smd_dev\devkit\sgdk180dev\bin\make.exe" />
+      <option name="PARAMETERS" value="-f C:\Dev\smd_dev\devkit\sgdk180dev\makefile.gen clean" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="SGDK BuildAndRun" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Dev\smd_dev\devkit\sgdk180dev\bin\make.bat" />
+      <option name="PARAMETERS" value="-f $ProjectFileDir$\out\rom.bin" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

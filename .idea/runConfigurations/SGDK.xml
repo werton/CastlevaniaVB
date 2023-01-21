@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="SGDK" type="CLionNativeAppRunConfigurationType" PROGRAM_PARAMS="C:\Dev\smd_dev\devkit\emuls\run_current_emul.vbs $ProjectFileDir$\out\rom.bin" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" WORKING_DIR="file://$ProjectFileDir$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Micetopia" TARGET_NAME="SGDK Target" CONFIG_NAME="SGDK Target" version="1" RUN_PATH="windir/System32/wscript.exe $SMD_DEV$/devkit/emuls/run_current_emul.vbs ">
+    <envs>
+      <env name="windir" value="C:\Windows" />
+      <env name="SMD_DEV" value="C:\Dev\smd_dev;SMD_DEVKIT=C:\Dev\smd_dev\devkit\" />
+    </envs>
+    <method v="2">
+      <option name="CLION.COMPOUND.BUILD" enabled="true" />
+    </method>
+  </configuration>
+</component>

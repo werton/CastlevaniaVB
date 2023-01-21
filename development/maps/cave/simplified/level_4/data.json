@@ -1,0 +1,299 @@
+{
+	"identifier": "level_4",
+	"uniqueIdentifer": "e2857d10-7820-11ed-8f6e-4b56cbed94fe",
+	"x": -1920,
+	"y": 272,
+	"width": 768,
+	"height": 240,
+	"bgColor": "#696A79",
+	"neighbourLevels": [
+		{
+			"levelIid": "47d23360-7820-11ed-9d3e-bb2def0a090d",
+			"dir": "e"
+		}
+	],
+	"customFields" : {},
+	"layers": [
+		"layer_b.png",
+		"layer_a.png",
+		"overdraw.png"
+	],
+	"entities": {
+		"decor_mushroom_small": [
+			{
+				"id": "decor_mushroom_small",
+				"iid": "47a128c0-7820-11ed-af66-b5c976b1d6d0",
+				"layer": "entities",
+				"x": 576,
+				"y": 112,
+				"width": 16,
+				"height": 8,
+				"color": 65395,
+				"customFields": {
+					"exportPosition": true,
+					"id": 0,
+					"type": 0,
+					"group": 0,
+					"enabled": 1,
+					"priority": 0,
+					"exportName": true,
+					"exportSize": true
+				}
+			},
+			{
+				"id": "decor_mushroom_small",
+				"iid": "4846b790-7820-11ed-af66-6d947e1c633e",
+				"layer": "entities",
+				"x": 512,
+				"y": 208,
+				"width": 16,
+				"height": 8,
+				"color": 65395,
+				"customFields": {
+					"exportPosition": true,
+					"id": 0,
+					"type": 0,
+					"group": 0,
+					"enabled": 1,
+					"priority": 0,
+					"exportName": true,
+					"exportSize": true
+				}
+			},
+			{
+				"id": "decor_mushroom_small",
+				"iid": "4b4eee80-7820-11ed-af66-779c0cdb5e7c",
+				"layer": "entities",
+				"x": 64,
+				"y": 192,
+				"width": 16,
+				"height": 8,
+				"color": 65395,
+				"customFields": {
+					"exportPosition": true,
+					"id": 0,
+					"type": 0,
+					"group": 0,
+					"enabled": 1,
+					"priority": 0,
+					"exportName": true,
+					"exportSize": true
+				}
+			}
+		],
+		"decor_mushroom_mid": [
+			{
+				"id": "decor_mushroom_mid",
+				"iid": "4d5dd150-7820-11ed-af66-8fafb8fe8c02",
+				"layer": "entities",
+				"x": 32,
+				"y": 192,
+				"width": 24,
+				"height": 24,
+				"color": 65395,
+				"customFields": {
+					"exportPosition": true,
+					"id": 0,
+					"type": 1,
+					"group": 0,
+					"enabled": 1,
+					"priority": 0,
+					"exportSize": true,
+					"exportName": true
+				}
+			}
+		],
+		"warp_left": [
+			{
+				"id": "warp_left",
+				"iid": "bda45740-7820-11ed-af66-2502ecbe1688",
+				"layer": "entities",
+				"x": 0,
+				"y": 96,
+				"width": 4,
+				"height": 48,
+				"color": 65395,
+				"customFields": {
+					"type": 1,
+					"width": 4,
+					"height": 64,
+					"enabled": 1,
+					"exportPosition": true,
+					"id": 0,
+					"group": 1,
+					"targetLevel": 0,
+					"targetWarp": 1,
+					"exportName": true
+				}
+			}
+		],
+		"decor_lantern_mid": [
+			{
+				"id": "decor_lantern_mid",
+				"iid": "111a9480-7820-11ed-b15a-194488bc5339",
+				"layer": "entities",
+				"x": 712,
+				"y": 48,
+				"width": 48,
+				"height": 40,
+				"color": 65395,
+				"customFields": {
+					"exportName": true,
+					"exportPosition": true,
+					"exportSize": true,
+					"id": 0,
+					"type": 10,
+					"group": 0,
+					"enabled": 1,
+					"priority": 0
+				}
+			},
+			{
+				"id": "decor_lantern_mid",
+				"iid": "12723540-7820-11ed-b15a-c7caa0f87a6c",
+				"layer": "entities",
+				"x": 488,
+				"y": 160,
+				"width": 48,
+				"height": 40,
+				"color": 65395,
+				"customFields": {
+					"exportName": true,
+					"exportPosition": true,
+					"exportSize": true,
+					"id": 0,
+					"type": 10,
+					"group": 0,
+					"enabled": 1,
+					"priority": 0
+				}
+			},
+			{
+				"id": "decor_lantern_mid",
+				"iid": "15450450-7820-11ed-b15a-49a203af3546",
+				"layer": "entities",
+				"x": 552,
+				"y": 48,
+				"width": 48,
+				"height": 40,
+				"color": 65395,
+				"customFields": {
+					"exportName": true,
+					"exportPosition": true,
+					"exportSize": true,
+					"id": 0,
+					"type": 10,
+					"group": 0,
+					"enabled": 1,
+					"priority": 0
+				}
+			},
+			{
+				"id": "decor_lantern_mid",
+				"iid": "187d9a10-7820-11ed-b15a-41e3d63dc365",
+				"layer": "entities",
+				"x": 392,
+				"y": 48,
+				"width": 48,
+				"height": 40,
+				"color": 65395,
+				"customFields": {
+					"exportName": true,
+					"exportPosition": true,
+					"exportSize": true,
+					"id": 0,
+					"type": 10,
+					"group": 0,
+					"enabled": 1,
+					"priority": 0
+				}
+			},
+			{
+				"id": "decor_lantern_mid",
+				"iid": "32efc620-7820-11ed-b15a-e3aafb164111",
+				"layer": "entities",
+				"x": 168,
+				"y": 112,
+				"width": 48,
+				"height": 40,
+				"color": 65395,
+				"customFields": {
+					"exportName": true,
+					"exportPosition": true,
+					"exportSize": true,
+					"id": 0,
+					"type": 10,
+					"group": 0,
+					"enabled": 1,
+					"priority": 0
+				}
+			},
+			{
+				"id": "decor_lantern_mid",
+				"iid": "3bbeb7c0-7820-11ed-b15a-f3c468b0252e",
+				"layer": "entities",
+				"x": 120,
+				"y": 32,
+				"width": 48,
+				"height": 40,
+				"color": 65395,
+				"customFields": {
+					"exportName": true,
+					"exportPosition": true,
+					"exportSize": true,
+					"id": 0,
+					"type": 10,
+					"group": 0,
+					"enabled": 1,
+					"priority": 0
+				}
+			}
+		],
+		"warp_right": [
+			{
+				"id": "warp_right",
+				"iid": "af86a6d0-7820-11ed-b15a-67371583cef0",
+				"layer": "entities",
+				"x": 768,
+				"y": 32,
+				"width": 4,
+				"height": 64,
+				"color": 65395,
+				"customFields": {
+					"id": 1,
+					"type": 0,
+					"group": 0,
+					"enabled": 1,
+					"width": 4,
+					"height": 64,
+					"exportPosition": true,
+					"targetLevel": 3,
+					"targetWarp": 0,
+					"exportName": true
+				}
+			}
+		],
+		"decor_web_small": [
+			{
+				"id": "decor_web_small",
+				"iid": "ea140300-7820-11ed-b15a-4f6f5f3b25b0",
+				"layer": "entities",
+				"x": 736,
+				"y": 32,
+				"width": 16,
+				"height": 16,
+				"color": 65395,
+				"customFields": {
+					"exportName": true,
+					"exportPosition": true,
+					"exportSize": true,
+					"id": 0,
+					"type": 5,
+					"group": 0,
+					"enabled": 1,
+					"priority": 0
+				}
+			}
+		]
+	}
+}
