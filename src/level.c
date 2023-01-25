@@ -100,9 +100,8 @@ void FreeCollisionMap()
 void GenerateCollisionMap(u8 mapWidth, u8 mapHeight, const u8 map[][mapWidth])
 {
 //    roomSizePixels = newAABB_s16(0, mapWidth << 4, 0, mapHeight << 4);
-    activeLevel.aabb = (AABB_s16) {0, 0, mapWidth << 4, mapHeight << 4};
-
-    // Each tile is 16x16px, so we divide 768(size of the room in pixels) / 16, we use bitshifts because it is more performant than divisions
+    activeLevel.aabb = (AABB_s16) {0, 0, mapWidth * 8, mapHeight * 8};
+    
     roomSizeTiles = (Vect2D_u16) {mapWidth, mapHeight};
     // To store a 2D array with pointers we have to do it in that way
     currentCollisionMap = (u8 **)MEM_alloc(roomSizeTiles.y * sizeof(u8 *));
@@ -114,7 +113,7 @@ void GenerateCollisionMap(u8 mapWidth, u8 mapHeight, const u8 map[][mapWidth])
     }
 
     activeLevel.sizeTiles = roomSizeTiles;
-    activeLevel.sizePixels = (Vect2D_u16) {mapWidth << 4, mapHeight << 4};
+    activeLevel.sizePixels = (Vect2D_u16) {mapWidth * 8, mapHeight * 8};
     //    LOGX("", currentMap.sizePixels.x);
 }
 

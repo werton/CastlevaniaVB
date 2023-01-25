@@ -11,6 +11,7 @@
 #include "hud.h"
 #include "gfx.h"
 #include "sounds.h"
+#include "tilemaps.h"
 
 
 void DrawFPS(s16 x, s16 y, u16 asFloat);
@@ -33,7 +34,7 @@ int main(bool hardReset)
 	JOY_init();
 	SPR_init();
 
-	VDP_setHilightShadow(TRUE);
+//	VDP_setHilightShadow(TRUE);
 
 	HUDInit();
 
@@ -44,7 +45,7 @@ int main(bool hardReset)
 
 
 
-    LoadLevelAndStartAt(3, 0, 1, 64-(player.aabb->max.y-player.aabb->min.y));
+    LoadLevelAndStartAt(1, 0, 1, 64-(player.aabb->max.y-player.aabb->min.y));
 
     // We have to set up always after the player, it directly depends on player's data
 //    setupCamera((Vect2D_u16) {160, 112}, 50, 20);
@@ -54,9 +55,9 @@ int main(bool hardReset)
 	JOY_setEventHandler(OnInputCallback);
 
 
-    VDP_setWindowHPos(FALSE, 0);
-    VDP_setWindowVPos(false, 4);
-    // VDP_setWindowVPos(true, 22);
+//    VDP_setWindowHPos(FALSE, 0);
+//    VDP_setWindowVPos(false, 4);
+
 
     VDP_setTextPalette(PAL0);
     VDP_setTextPlane(WINDOW);
@@ -73,7 +74,13 @@ int main(bool hardReset)
     SYS_enableInts();
 
 
-//    XGM_startPlay(music[0]);
+//    kprintf("", floatTest[0]->velocity);
+//    KLog_F1x (5,"float test: ", floatTest[0]->float_value);
+//    KLog_F1x (5, "float test: ", floatTest[1]->float_value);
+//    KLog_F1x (5, "float test: ", floatTest[2]->float_value);
+
+    XGM_startPlay(music[0]);
+
 	while (TRUE)
 	{
 

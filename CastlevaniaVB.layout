@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="release" />
+	<File name="src\colmap.c" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="10" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="inc\colmap.h" open="0" top="0" tabpos="21" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\pfsm\states\walk_state.c" open="0" top="0" tabpos="18" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1502" topLine="31" />
+		</Cursor>
+	</File>
+	<File name="res\tilemaps.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="749" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="inc\input.h" open="1" top="0" tabpos="18" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="109" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\pfsm\state.c" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1802" topLine="36" />
+		</Cursor>
+	</File>
+	<File name="inc\global.h" open="1" top="0" tabpos="16" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="168" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\lvl_gen.c" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="10" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\global.c" open="1" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="49" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\physics.c" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="10" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="inc\entities.h" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="214" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="inc\types.h" open="1" top="0" tabpos="21" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2438" topLine="120" />
+		</Cursor>
+	</File>
+	<File name="src\input.c" open="1" top="0" tabpos="17" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="160" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="src\pfsm\states\attack_state.c" open="0" top="0" tabpos="20" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="293" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="src\obj_debug.c" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="213" topLine="9" />
+		</Cursor>
+	</File>
+	<File name="inc\debug.h" open="0" top="0" tabpos="17" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1123" topLine="4" />
+		</Cursor>
+	</File>
+	<File name="src\pfsm\states\jump_state.c" open="0" top="0" tabpos="19" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="804" topLine="5" />
+		</Cursor>
+	</File>
+	<File name="res\tilemaps.res" open="0" top="0" tabpos="20" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3080" topLine="27" />
+		</Cursor>
+	</File>
+	<File name="inc\obj_debug.h" open="1" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="376" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\player.c" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="975" topLine="28" />
+		</Cursor>
+	</File>
+	<File name="res\sounds.res" open="0" top="0" tabpos="20" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="inc\player.h" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="633" topLine="9" />
+		</Cursor>
+	</File>
+	<File name="res\sprites.h" open="0" top="0" tabpos="21" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="inc\defs.h" open="1" top="0" tabpos="19" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="428" topLine="21" />
+		</Cursor>
+	</File>
+	<File name="src\camera.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3183" topLine="32" />
+		</Cursor>
+	</File>
+	<File name="inc\physics.h" open="0" top="0" tabpos="19" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="273" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="res\sprites.res" open="1" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="979" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="inc\lvl_gen.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="131" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\pfsm\states\idle_state.c" open="0" top="0" tabpos="17" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="541" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="inc\level.h" open="1" top="0" tabpos="20" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="188" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\main.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1891" topLine="55" />
+		</Cursor>
+	</File>
+	<File name="inc\gfx.h" open="1" top="0" tabpos="23" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="177" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\hud.c" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="481" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\gfx.c" open="1" top="0" tabpos="22" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="937" topLine="7" />
+		</Cursor>
+	</File>
+	<File name="src\pfsm\state.h" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1779" topLine="39" />
+		</Cursor>
+	</File>
+	<File name="src\entities.c" open="1" top="1" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="241" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\types.c" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="42" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\pfsm\fsm.c" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\level.c" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1163" topLine="28" />
+		</Cursor>
+	</File>
+	<File name="src\debug.c" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="inc\camera.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="276" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

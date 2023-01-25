@@ -9,7 +9,7 @@
 #include "pfsm/fsm.h"
 #include "sprites.h"
 
-const Vect2D_f32 levelStartPos = {FIX32(74), FIX32(120)};
+const Vect2D_f32 levelStartPos = {FIX32(50), FIX32(50)};
 
 struct pBody player;
 

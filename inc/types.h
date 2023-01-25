@@ -153,5 +153,12 @@ typedef struct
     f32 BGOffsetScale;
 } ActiveLevel;
 
+
+typedef struct {
+    f32 float_value;
+} FloatTest;
+
+
+
 #endif // TYPES_INCLUDE_H
 

@@ -2,7 +2,7 @@ import os
 import subprocess
 import time
 
-project_dir = os.path.abspath("..\\..\\..\\..\\projects\\Micetopia\\")
+project_dir = os.path.abspath("..\\..\\..\\..\\projects\\CastlevaniaVB\\")
 scripts_dir = os.path.abspath("..\\..\\..\\..\\devkit\\dev_tools\\scripts\\")
 
 
@@ -65,7 +65,7 @@ def all_in_folder_tmx_convert_to_new(folder):
 if __name__ == '__main__':
 
     print("# ======= Copy layer images and convert them as 8bpp png =======")
-    source_dir = get_path("development\\maps\\cave\\simplified\\")
+    source_dir = get_path("development\\maps\\stage1\\simplified\\")
     target_dir = get_path("res\\levels\\")
     level_folder_names = next(os.walk(source_dir))[1]
 
@@ -79,7 +79,7 @@ if __name__ == '__main__':
         print("Done.")
 
     print("# ======= Copy map files to Levels dir and save them as 1.92 TMX version =======")
-    work_dir = get_path("development\\maps\\cave\\tiled\\")
+    work_dir = get_path("development\\maps\\stage1\\tiled\\")
     target_dir = get_path("res\\levels\\")
     level_folder_names = next(os.walk(target_dir))[1]
 
@@ -89,7 +89,7 @@ if __name__ == '__main__':
             tiled_save_tmx_as_new(os.path.join(work_dir, file), os.path.join(target_dir, file[5:-4], "objects.tmx"))
             print(os.path.join(target_dir, file[5:-4], "objects.tmx"))
 
-    time.sleep(0.1)
+    time.sleep(0.5)
 
     print("# ======= trim class name from object name =======")
     work_dir = os.getcwd()
@@ -103,7 +103,7 @@ if __name__ == '__main__':
         all_in_folder_tmx_extract_class_name(level_folder_full_path)
 
     print("# ======= writing collisions =======")
-    source_dir = get_path("development\\maps\\cave\\simplified\\")
+    source_dir = get_path("development\\maps\\stage1\\simplified\\")
     target_file_c = get_path("src\\colmap.c")
     target_file_h = get_path("inc\\colmap.h")
     level_folder_names = next(os.walk(source_dir))[1]

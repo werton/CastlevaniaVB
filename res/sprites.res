@@ -3,7 +3,7 @@
 SPRITE  player_sprite_idle                           "chars/richter_idle.png"           4 6     NONE
 SPRITE  player_sprite_walk                           "chars/richter_walk.png"           4 6     NONE
 SPRITE  player_sprite_jump                           "chars/richter_jump.png"          4 6     NONE
-SPRITE  player_sprite_fall                           "chars/richter_fall.png"          4 6     NONE
+SPRITE  player_sprite_fall                           "chars/richter_fall_sotn.png"          4 6     NONE
 
 SPRITE  sprite_mushroom_big                     "entities/mushroom_big.png"             5 3     NONE
 SPRITE  sprite_mushroom_mid                     "entities/mushroom_middle.png"          3 3     NONE
